@@ -1,6 +1,6 @@
 # Embedded_Projects_2021
 
-## Varun MS 
+##  Author Varun MS 
 ## Projects Requriements:
  * Proteus
  * Keil Uvision
