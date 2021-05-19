@@ -6,3 +6,9 @@
 ## Projects Requriements:
  * Proteus
  * Keil Uvision
+
+## List of Projects:
+* Simple DC Motor Control
+* Traffic control
+* Keypad lcd Display
+* Password-based-doorlock-system
