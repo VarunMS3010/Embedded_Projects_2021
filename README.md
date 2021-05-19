@@ -9,6 +9,6 @@
 
 ## List of Projects:
 * Simple DC Motor Control
-* Traffic control
+* Traffic control System
 * Keypad lcd Display
 * Password-based-doorlock-system
